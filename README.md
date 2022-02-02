@@ -1,5 +1,4 @@
 # hello-world
 
 Hi All!
-
-Just testing this readme again. Pass #2. 
+Making changes in the readme-edit branch.
